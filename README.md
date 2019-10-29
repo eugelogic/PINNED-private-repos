@@ -10,3 +10,5 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Jordan](https://github.com/eugelogic/jordan)
 - [Daisy](https://github.com/eugelogic/daisy)
 - [Talbot](https://github.com/eugelogic/talbot)
+- [Cincinnato](https://github.com/eugelogic/cincinnato)
+- [Gutenberg](https://github.com/eugelogic/gutenberg)
