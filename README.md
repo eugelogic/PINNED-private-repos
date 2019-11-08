@@ -18,3 +18,4 @@ Since I can't pin private repos, here's a public one with links to those private
 ## Hobbies
 - [Talbot](https://github.com/eugelogic/talbot)
 - [Cincinnato](https://github.com/eugelogic/cincinnato)
+- [Today in Jazz](https://github.com/eugelogic/today-in-jazz)
