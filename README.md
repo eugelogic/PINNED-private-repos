@@ -3,6 +3,7 @@ Since I can't pin private repos, here's a public one with links to those private
 
 ## General
 - [Eugene Today](https://github.com/eugelogic/eugene-today)
+- [Eugene is ...](https://github.com/eugelogic/eugene-is)
 - [Norwich](https://github.com/eugelogic/norwich)
 - [Zamboni](https://github.com/eugelogic/zamboni)
 - [Gutenberg](https://github.com/eugelogic/gutenberg)
