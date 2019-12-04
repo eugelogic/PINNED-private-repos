@@ -15,6 +15,7 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Mocha](https://github.com/eugelogic/mocha)
 - [Jordan](https://github.com/eugelogic/jordan)
 - [Daisy](https://github.com/eugelogic/daisy)
+- [Memory Card Game](https://github.com/eugelogic/memory-card-game)
 
 ## Hobbies
 - [Talbot](https://github.com/eugelogic/talbot)
