@@ -14,6 +14,7 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Cybilla](https://github.com/eugelogic/cybilla)
 - [Mocha](https://github.com/eugelogic/mocha)
 - [Toreno](https://github.com/eugelogic/toreno)
+- [Varesine](https://github.com/eugelogic/varesine)
 - [Jordan](https://github.com/eugelogic/jordan)
 - [Daisy](https://github.com/eugelogic/daisy)
 
