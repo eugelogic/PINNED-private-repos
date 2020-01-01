@@ -18,6 +18,7 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Varesine](https://github.com/eugelogic/varesine)
 - [Jordan](https://github.com/eugelogic/jordan)
 - [Daisy](https://github.com/eugelogic/daisy)
+- [Maya](https://github.com/eugelogic/maya)
 
 ## Hobbies
 - [Talbot](https://github.com/eugelogic/talbot)
