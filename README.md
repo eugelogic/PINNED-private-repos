@@ -8,6 +8,7 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Diego](https://github.com/eugelogic/diego)
 - [Zamboni](https://github.com/eugelogic/zamboni)
 - [Gutenberg](https://github.com/eugelogic/gutenberg)
+- [Augusta](https://github.com/eugelogic/augusta)
 
 ## Tech
 - [Eugene Tech](https://github.com/eugelogic/eugene-tech-journal)
