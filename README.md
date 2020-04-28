@@ -20,6 +20,8 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Jordan](https://github.com/eugelogic/jordan)
 - [Daisy](https://github.com/eugelogic/daisy)
 - [Maya](https://github.com/eugelogic/maya)
+- [Talos](https://github.com/eugelogic/talos)
+- [Rocky](https://github.com/eugelogic/rocky)
 
 ## Hobbies
 - [Talbot](https://github.com/eugelogic/talbot)
