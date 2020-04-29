@@ -22,6 +22,7 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Maya](https://github.com/eugelogic/maya)
 - [Talos](https://github.com/eugelogic/talos)
 - [Rocky](https://github.com/eugelogic/rocky)
+- [Code Challenge](https://github.com/eugelogic/code-challenge)
 
 ## Hobbies
 - [Talbot](https://github.com/eugelogic/talbot)
