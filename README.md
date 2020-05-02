@@ -23,6 +23,7 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Talos](https://github.com/eugelogic/talos)
 - [Rocky](https://github.com/eugelogic/rocky)
 - [Code Challenge](https://github.com/eugelogic/code-challenge)
+- [Flash Cards](https://github.com/eugelogic/flash-cards)
 
 ## Hobbies
 - [Talbot](https://github.com/eugelogic/talbot)
