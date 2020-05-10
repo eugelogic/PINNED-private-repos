@@ -22,7 +22,8 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Maya](https://github.com/eugelogic/maya)
 - [Talos](https://github.com/eugelogic/talos)
 - [Rocky](https://github.com/eugelogic/rocky)
-- [Code Challenge](https://github.com/eugelogic/code-challenge)
+- [Code Challenge List](https://github.com/eugelogic/code-challenge-list)
+- [Code Challenge Box](https://github.com/eugelogic/code-challenge-box)
 - [Flash Cards](https://github.com/eugelogic/flash-cards)
 
 ## Hobbies
