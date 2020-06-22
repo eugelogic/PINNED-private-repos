@@ -25,6 +25,8 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Code Challenge List](https://github.com/eugelogic/code-challenge-list)
 - [Code Challenge Box](https://github.com/eugelogic/code-challenge-box)
 - [Flash Cards](https://github.com/eugelogic/flash-cards)
+- [Loopy Devs](https://github.com/eugelogic/loopy-devs)
+- [Eugebook](https://github.com/eugelogic/eugebook)
 
 ## Hobbies
 - [Talbot](https://github.com/eugelogic/talbot)
