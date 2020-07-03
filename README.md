@@ -29,6 +29,6 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Eugebook](https://github.com/eugelogic/eugebook)
 
 ## Hobbies
-- [Talbot](https://github.com/eugelogic/talbot)
+- [Calotype](https://github.com/eugelogic/calotype)
 - [Cincinnato](https://github.com/eugelogic/cincinnato)
 - [Today in Jazz](https://github.com/eugelogic/today-in-jazz)
