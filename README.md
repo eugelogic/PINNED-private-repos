@@ -30,5 +30,6 @@ Since I can't pin private repos, here's a public one with links to those private
 
 ## Hobbies
 - [Calotype](https://github.com/eugelogic/calotype)
+- [Euphorbia](https://github.com/eugelogic/euphorbia)
 - [Cincinnato](https://github.com/eugelogic/cincinnato)
 - [Today in Jazz](https://github.com/eugelogic/today-in-jazz)
