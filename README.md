@@ -11,6 +11,8 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Augusta](https://github.com/eugelogic/augusta)
 
 ## Tech
+- [Code Jigsaw](https://github.com/eugelogic/codejigsaw)
+- [Easel](https://github.com/eugelogic/easel)
 - [Eugene Tech](https://github.com/eugelogic/eugene-tech-journal)
 - [Webster](https://github.com/eugelogic/webster)
 - [Cybilla](https://github.com/eugelogic/cybilla)
