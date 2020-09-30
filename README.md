@@ -9,6 +9,8 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Zamboni](https://github.com/eugelogic/zamboni)
 - [Gutenberg](https://github.com/eugelogic/gutenberg)
 - [Augusta](https://github.com/eugelogic/augusta)
+- [Henry](https://github.com/eugelogic/henry)
+- [Mapolo](https://github.com/eugelogic/mapolo)
 
 ## Tech
 - [Code Jigsaw](https://github.com/eugelogic/codejigsaw)
