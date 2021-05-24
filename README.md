@@ -31,6 +31,7 @@ Since I can't pin private repos, here's a public one with links to those private
 - [Flash Cards](https://github.com/eugelogic/flash-cards)
 - [Loopy Devs](https://github.com/eugelogic/loopy-devs)
 - [Eugebook](https://github.com/eugelogic/eugebook)
+- [Sylvestris](https://github.com/eugelogic/sylvestris)
 
 ## Hobbies
 - [Calotype](https://github.com/eugelogic/calotype)
